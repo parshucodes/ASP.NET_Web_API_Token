@@ -1,0 +1,6 @@
+@jwt11april_HostAddress = http://localhost:5131
+
+GET {{jwt11april_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
