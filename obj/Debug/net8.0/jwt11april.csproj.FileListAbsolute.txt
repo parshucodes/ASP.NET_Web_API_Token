@@ -135,3 +135,4 @@ C:\Users\parsh\source\repos\jwt11april\jwt11april\obj\Debug\net8.0\refint\jwt11a
 C:\Users\parsh\source\repos\jwt11april\jwt11april\obj\Debug\net8.0\jwt11april.pdb
 C:\Users\parsh\source\repos\jwt11april\jwt11april\obj\Debug\net8.0\jwt11april.genruntimeconfig.cache
 C:\Users\parsh\source\repos\jwt11april\jwt11april\obj\Debug\net8.0\ref\jwt11april.dll
+C:\Users\parsh\source\repos\jwt11april\jwt11april\obj\Debug\net8.0\jwt11april.sourcelink.json

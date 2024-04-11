@@ -50,8 +50,7 @@ namespace jwt11april.Services
             var emp = _jwtContext.Employees.SingleOrDefault(x => x.Id == id);
             return emp;
         }
-
-        public Employee UpdateEmployee(int id, Employee employee)
+        public Employee UpdateEmployee(Employee employee)
         {
             var emp = _jwtContext.Employees.Update(employee);
             _jwtContext.SaveChanges();
